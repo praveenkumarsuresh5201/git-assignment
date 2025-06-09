@@ -1,2 +1,3 @@
 "Feature A implementation" 
 "Feature B implementation" 
+"Bug fix for feature A" 
