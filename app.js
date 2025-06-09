@@ -2,3 +2,4 @@
 "// Adding new feature" 
 "const newFeature = true;" 
 "function feature1() {}" 
+"function feature2() {}" 
